@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chars16.png",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\chars16.png"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_waku_02.gif",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\menu_waku_02.gif"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_waku_03.gif",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\menu_waku_03.gif"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chars.png",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\chars.png"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_waku_01.gif",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\menu_waku_01.gif"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\AndroidSampleProject\\McbyAndroidOpenGL\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

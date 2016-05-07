@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidSampleProject\McbyAndroidHinagata\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="875e408138dff7deefb9dc75bbd9188326aaacd5">
+        <dex dex="C:\AndroidSampleProject\McbyAndroidHinagata\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd6abf12c14d076bd2f0b17e2ea38dcfdf0d412d\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidSampleProject\McbyAndroidHinagata\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ceb3c3929aec7e9c45d0b3827e935e3c345e5789">
+        <dex dex="C:\AndroidSampleProject\McbyAndroidHinagata\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2116232a779f2ecf1af4a99a1956db2b8529ce55\classes.dex" />
+    </item>
+
+</items>

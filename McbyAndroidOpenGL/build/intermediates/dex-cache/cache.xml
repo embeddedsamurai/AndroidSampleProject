@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidSampleProject\McbyAndroidOpenGL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b088c4c57d98b3da8b4bf75a5998863ef8445724">
+        <dex dex="C:\AndroidSampleProject\McbyAndroidOpenGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_48e9e43a60255ae71095ba068dc66cee46672183\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidSampleProject\McbyAndroidOpenGL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="63c24e5f61487f6fd7c7d6d047b241532023dbaf">
+        <dex dex="C:\AndroidSampleProject\McbyAndroidOpenGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5cc7af8fa270cd9556bb73b3860b0f94f46e3f94\classes.dex" />
+    </item>
+
+</items>
